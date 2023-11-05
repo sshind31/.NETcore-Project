@@ -1,0 +1,8 @@
+Create class
+create dbcontext inherited class
+create dbset for every class for table
+add connection string in appsetting.json
+add dbcontextservice in program.cs
+add imigrations in PM
+add constructor in controller class
+
